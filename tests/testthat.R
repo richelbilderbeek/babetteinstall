@@ -1,4 +1,4 @@
 library(testthat)
-library(beastierinstall)
+library(babetteinstall)
 
-test_check("beastierinstall")
+test_check("babetteinstall")
